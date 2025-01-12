@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-rand = "0.8.5"     # libraru for random number generation
-piston_window = "0.132.0"     # this allows us to render our elements with the UI as well as deal with some og the game logic
+rand = "0.8"     # libraru for random number generation
+piston_window = "0.117.0"     # this allows us to render our elements with the UI as well as deal with some og the game logic
 
 # "*" ----> choose the latest version of the library
